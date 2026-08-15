@@ -1,0 +1,6 @@
+# Cloudflare Pages redirects
+# www → apex
+https://www.brytetech.solutions/* https://brytetech.solutions/:splat 301
+
+# 404 fallback
+/* /index.html 200
