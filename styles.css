@@ -117,7 +117,7 @@ body {
 
 .btn-ghost-dark {
   background: transparent;
-  color: #000000;
+  color: #ffffff;
   border: 1.5px solid var(--border-dark);
   padding: 12px 24px;
   border-radius: var(--radius);
