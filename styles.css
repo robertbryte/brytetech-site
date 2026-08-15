@@ -171,6 +171,7 @@ body {
 .logo-bryte { color: var(--primary); }
 .logo-tech { color: var(--text); }
 .logo-dot { color: var(--primary); }
+.footer .logo-tech { color: #ffffff; }
 
 .nav-links {
   display: flex;
@@ -190,8 +191,8 @@ body {
 }
 
 .nav-links a:hover { color: var(--text); background: var(--bg-alt); }
-.nav-links .btn { color: #fff !important; background: var(--primary); padding: 8px 18px; font-size: 14px; box-shadow: 0 2px 8px rgba(59,130,246,0.35); }
-.nav-links .btn:hover { color: #fff !important; background: var(--primary-dark) !important; border-color: transparent; }
+.nav-links .btn { color: #000000 !important; background: var(--primary); padding: 8px 18px; font-size: 14px; box-shadow: 0 2px 8px rgba(59,130,246,0.35); }
+.nav-links .btn:hover { color: #000000 !important; background: var(--primary-dark) !important; border-color: transparent; }
 
 .hamburger {
   display: none;
