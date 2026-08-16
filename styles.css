@@ -193,6 +193,7 @@ body {
 .nav-links a:hover { color: var(--text); background: var(--bg-alt); }
 .nav-links .btn { color: #000000 !important; background: var(--primary); padding: 8px 18px; font-size: 14px; box-shadow: 0 2px 8px rgba(59,130,246,0.35); }
 .nav-links .btn:hover { color: #000000 !important; background: var(--primary-dark) !important; border-color: transparent; }
+a.nav-cta, a.nav-cta:visited, a.nav-cta:link { color: #000000 !important; }
 
 .hamburger {
   display: none;
